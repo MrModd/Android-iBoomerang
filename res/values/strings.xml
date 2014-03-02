@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- iBoomerang Copyright (C) 2014  Federico "MrModd" Cosentino (http://mrmodd.it/) -->
+<resources>
+
+    <string name="app_name">iBoomerang</string>
+    <string name="initial_message">Now throw you phone\nand prepare to get it back!</string>
+    <string name="final_message">Have you really just thrown your phone???\nUhm let\'s see if this works then:\nNow jump from the bridge!</string>
+    <string name="boomerang_img">Boomerang</string>
+    <string name="toast_loading_msg">Boomerang modules loaded</string>
+    <string name="sensor_error_msg">Unable to load motion sensor</string>
+    <string name="sensor_error_title">Error</string>
+    <string name="tilt_box">TILT!</string>
+    <string name="ok_button">OK</string>
+
+</resources>
